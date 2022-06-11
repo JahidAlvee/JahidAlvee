@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/960/1*eKQmtqPla2M7ozIuUZL83g.gif)
+![MasterHead](https://miro.medium.com/max/960/1*eKQmtqPla2M7ozIuUZL83g.gif)
 <h1 align="center">Hi 👋, I'm Jahid Alvee</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 (img align="right" alt="Coding" width="400" src="https://i.gifer.com/6tXM.gif")
